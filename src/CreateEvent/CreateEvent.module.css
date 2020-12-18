@@ -1,0 +1,29 @@
+.time, .date {
+  resize: none;
+  border: 4px solid black;
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 24px;
+  line-height: 28px;
+  padding: 16px;
+  margin-bottom: 16px;
+}
+
+.btn {
+    width: 100%;
+    background-color: #B8B8B8;
+    border: 4px solid #000000;
+    box-sizing: border-box;
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 36px;
+    line-height: 42px;
+    color: #FFFFFF;
+    padding: 8px 0 8px;
+}
+
+.enable {
+    background-color: black;
+}

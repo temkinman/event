@@ -1,0 +1,23 @@
+body {
+    background-color: #E5E5E5;
+}
+
+.container {
+    margin: 0 auto;
+    width: 600px;
+}
+
+.event {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    font-family: Roboto;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 24px;
+    line-height: 28.13px;
+}
+
+.eventText, .eventDate, .eventTime, .eventCreate {
+    border: 2px solid black;
+}
